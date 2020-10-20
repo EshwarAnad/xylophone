@@ -1,21 +1,20 @@
 body {
     height: 100%;
-    background: url(./assets/xylophone-bg-v2.png);
+    background: url(https://bit.ly/xylophone-bg);
     background-repeat: no-repeat;
     background-size: cover;
-    margin-left: 30px;
+    margin-left: 10vh;
 }
 
 #xylophone-logo {
     display: block;
-    min-width: 300px;
-    width: 30%;
-
+    min-width: 60vh;
+    width: 50vh;
 }
 
 #logo {
-    min-width: 150px;
-    width: 5%;
+    min-width: 25vh;
+    width: 20vh;
 
 }
 
@@ -23,18 +22,18 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-width: 300px;
-    margin: 100px 0;
+    min-width: 60vh;
+    margin: 15vh 0;
 }
 
 .note {
     background-color: white;
-    border-radius: 10px;
+    border-radius: 2vh;
     height: 40vh;
-    width: 60px;
-    margin: 0 10px;
-box-shadow:  -5px 5px 10px #171819, 
-5px -5px 10px #2d3031;
+    width: 10vh;
+    margin: 0 1.5vh;
+box-shadow:  -1vh 1vh 2vh #171819, 
+1vh -1vh 2vh #2d3031;
 }
 
 .note:hover {
@@ -73,18 +72,18 @@ box-shadow:  -5px 5px 10px #171819,
     background-color: deeppink;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 90vh) {
 
     #notes-container {
         flex-direction: column;
-        margin: 30px 0;
+        margin: 3vh 0;
     }
 
     .note {
-        border-radius: 20px;
-        height: 40px;
-        width: 60vw;
-        margin: 5px 0;
+        border-radius: 3vh;
+        height: 6vh;
+        width: 50vh;
+        margin: 1vh 0;
     }
 
 }
