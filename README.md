@@ -32,4 +32,4 @@ deeppink
 ## Resources
 
 <img src="https://i1.faceprep.in/ProGrad/margin-visual.png">
-<img src="https://i1.faceprep.in/ProGrad/inline-vs-block-visual.png">
+<img src="https://i1.faceprep.in/ProGrad/inlone-vs-block-visual.png">
