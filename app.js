@@ -7,13 +7,13 @@ const note6 = document.getElementById("note6");
 const note7 = document.getElementById("note7");
 const note8 = document.getElementById("note8");
 
-const audio1and8 = new Audio("./assets/note1 and 8.wav");
-const audio2 = new Audio("./assets/note2.wav");
-const audio3 = new Audio("./assets/note3.wav");
-const audio4 = new Audio("./assets/note4.wav");
-const audio5 = new Audio("./assets/note5.wav");
-const audio6 = new Audio("./assets/note6.wav");
-const audio7 = new Audio("./assets/note7.wav");
+const audio1and8 = new Audio("http://bit.ly/xy-note1-and-8");
+const audio2 = new Audio("http://bit.ly/xy-note2");
+const audio3 = new Audio("http://bit.ly/xy-note3");
+const audio4 = new Audio("http://bit.ly/xy-note4");
+const audio5 = new Audio("http://bit.ly/xy-note5");
+const audio6 = new Audio("http://bit.ly/xy-note1-and-8");
+const audio7 = new Audio("http://bit.ly/xy-note7");
 
 note1.onmouseover = () => {
   audio1and8.pause();
@@ -33,7 +33,7 @@ note3.onmouseover = () => {
   audio3.play();
 };
 
-note4.onmouseoverk = () => {
+note4.onmouseover = () => {
   audio4.pause();
   audio4.currentTime = 0;
   audio4.play();
@@ -55,7 +55,7 @@ note7.onmouseover = () => {
   audio7.pause();
   audio7.currentTime = 0;
   audio7.play();
-};s
+};
 
 note8.onmouseover = () => {
   audio1and8.pause();
