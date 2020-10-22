@@ -32,4 +32,6 @@ deeppink
 ## Resources
 
 <img src="https://i1.faceprep.in/ProGrad/margin-visual.png">
-<img src="https://i1.faceprep.in/ProGrad/inlone-vs-block-visual.png">
+<img src="https://cdn-media-1.freecodecamp.org/images/6WwoIEc45lUHUcFQCmD8GmziiISm2lO64Y1-">
+<img src="https://cdn-media-1.freecodecamp.org/images/OBGVr-DdHiQ2y9VOWuhXqXeGnFnyDSBTx7hv">
+<img src="https://cdn-media-1.freecodecamp.org/images/UgsULw0Kk49l-l1wSzeurYNJKCmcA-01oE8a">
